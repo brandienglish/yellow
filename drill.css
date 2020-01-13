@@ -1,0 +1,75 @@
+body{
+    background-color: slategrey;
+}
+body{
+    font-family: 'Days One', sans-serif;
+}
+div { text-align: center;
+
+}
+a:hover {
+    background-color: hotpink;
+}
+a:hover {
+    font-weight: bold;
+}
+a:hover {
+    color: khaki;
+}
+.boxes{
+    display: block;
+    background-color: slategrey;
+    border: 10px solid blue ;
+    border-radius: 30px;
+    width: 30em;
+    margin: 20px;
+    padding: 10px;
+}
+.what{
+    width: 50px;
+    height: 50px;
+    border: 50px;
+    border-radius: 50px;
+    background-color: thistle;
+}
+h1{
+    color: yellowgreen;
+}
+h1{
+    font-family: 'Bitter', serif;;
+}
+.orginal{
+    font-family: 'Lobster', cursive;
+}
+#new{
+    font-family:'Caveat', cursive; 
+}
+#rank1{ 
+    color: tomato;
+}
+#rank2{
+    color: #723672;
+
+}
+#rank3{
+    color: wheat;
+}
+#rank3{
+    color: #5d40e0;
+}
+#rank4{
+    color: red;
+}
+#rank5{
+    color: sandybrown;
+}
+ul{
+    color: hsl(332, 88%, 16%);
+}
+#wars{
+color: ivory;
+}
+div{
+   border-style: solid;
+   
+}
